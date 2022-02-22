@@ -1,0 +1,22 @@
+.products{
+    /* background-color: aliceblue; */
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    outline: 8px solid red;
+    border: 8px solid blue;
+    border-left: none;
+    outline: 8px 2px 8px 1px red;
+    outline: 1px 2px;
+    outline-width: 8px;
+    outline-style: dotted;
+    outline-color: brown;
+}
+
+.product{
+    margin: 10px;
+    float: left;
+
+}

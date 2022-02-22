@@ -1,0 +1,25 @@
+.box,.box1,.box2 {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    float: right;
+    border: 4px solid grey;
+    border: 0px 4px 4px 4px solid grey;
+    border-left: none;
+    border-right: none;
+    border-right: 2px solid red;
+    border-left: 2px solid blue;
+}
+
+.box:hover{
+    background-color: red;
+}
+.box1:hover{
+    background-color: green;
+}
+.box2:hover{
+    background-color: blue;
+    /* width: 400px;
+    height: 400px;
+} */
+}

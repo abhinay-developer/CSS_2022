@@ -1,0 +1,31 @@
+td{
+    padding: 10px;
+    /* border: 2px solid grey; */
+
+}
+
+table{
+    width: 50%;
+    margin: auto;
+    border: 2px solid grey;
+}
+
+th{
+    padding: 5px;
+    color: red;
+    border: 2px solid grey;
+
+}
+
+thead>tr{
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.even{
+    background-color: lightgreen;
+}
+
+.odd{
+    background-color: lightcoral;
+}

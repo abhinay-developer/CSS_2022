@@ -1,0 +1,38 @@
+.para{
+        background-color: aliceblue;
+        padding: 30px;
+        margin: 10px;
+        height: 100px;
+        width: 600px;
+        text-align: justify;
+        word-spacing: 6px;
+        line-height: 22px;
+        font-family: calibri;
+    
+}
+
+.content {
+    background: black;
+    color: blue;
+    padding: 20px;
+    margin: 10px;
+    font-family: arial;
+    text-transform: uppercase;
+    height: 100px;
+    width: 618px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+#akhil {
+    margin: 10px;
+    background: green;
+    color: white;
+    padding: 25px;
+    height: 126px;
+    width: 610px;
+    font-size: 17px;
+    font-family: monospace;
+    text-align: justify;
+    line-height: 24px;
+}

@@ -1,0 +1,24 @@
+.para1 {
+    background: dodgerblue;
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    height: 120px;
+    width: 40%;
+    text-align: justify;
+    text-transform: uppercase;
+    word-spacing: 8px;
+    line-height: 25px;
+    /* text-indent: initial; */
+    text-decoration: underline;
+
+
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px red;
+    padding: 25px;
+}

@@ -1,0 +1,30 @@
+#title{
+    background-color: red;
+    color: black;
+}
+
+ul>li{
+
+    background-color: grey;
+    padding: 10px;
+    list-style-type: none;
+    margin: 5px;
+}
+
+#team{
+    background-color: dodgerblue;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+
+    #team2 {
+        background-color: #ff7f10;
+        padding-left: 35px;
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-right: 35px;
+        text-align: center;
+}

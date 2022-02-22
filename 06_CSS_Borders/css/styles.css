@@ -1,0 +1,22 @@
+.content1 {
+    margin: 10px;
+    background: grey;
+    color: white;
+    padding: 25px;
+    height: 95px;
+    width: 650px;
+    border: 2px solid green;
+}
+
+ul>li {
+    padding: 10px;
+    background-color: grey;
+    margin: 10px;
+    border-left: 2px solid blue;
+    list-style-type: none;
+    width: 40%;
+}
+
+.para1{
+
+}

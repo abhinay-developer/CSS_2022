@@ -1,0 +1,16 @@
+ol>li{
+    background-color: aliceblue;
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    padding: 22px;
+}
+
+#spacing{
+        margin: 10px;
+}
